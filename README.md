@@ -8,7 +8,7 @@ The course covers key Java concepts, including:
 * Java Basics & Syntax
 * Object-Oriented Programming (OOP)
 * Exception Handling
-* (I will add more topics here as I complete them in the course)
+*
 
 Each folder or file in this repository corresponds to a specific topic or lesson from the course.
 
